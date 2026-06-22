@@ -13,6 +13,10 @@
     <p>This is my first website project.</p>
     <p>This is my second website project.</p> 
 
+    <h2>Projects</h2> 
+
+    <p>Here are my projects.</p> 
+
 </body> 
 
 </html> 
